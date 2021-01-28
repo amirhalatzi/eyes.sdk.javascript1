@@ -32,7 +32,7 @@
   "main": "./index.js",
   "typings": "./typings/index.d.ts",
   "dependencies": {
-    "@applitools/dom-capture": "7.2.6",
+    "@applitools/dom-capture": "7.3.0",
     "@applitools/isomorphic-fetch": "3.0.0",
     "@applitools/snippets": "1.0.2",
     "axios": "0.19.2",
