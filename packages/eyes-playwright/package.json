@@ -32,7 +32,7 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "@applitools/eyes-sdk-core": "12.0.1",
+    "@applitools/eyes-sdk-core": "12.11.1",
     "@applitools/visual-grid-client": "14.6.4"
   },
   "peerDependencies": {
